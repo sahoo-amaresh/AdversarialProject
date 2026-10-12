@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Generated files
+*.log
+
+# Model weights (optional: exclude large model files)
+# *.pth
+
+# Generated plots (optional)
+# robustness_comparison.png
+
+# Datasets
+data/
